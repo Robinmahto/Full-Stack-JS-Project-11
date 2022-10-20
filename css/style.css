@@ -67,7 +67,6 @@
 .hero-section {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  height: 550px;
 }
 
 .hero-section .hero-left {
@@ -149,24 +148,23 @@
   grid-template-columns: 1fr 1fr;
 }
 
-.section2_left{
+.section2_left {
   position: relative;
   top: 130px;
 }
 
-.section2_left h1{
+.section2_left h1 {
   font-size: 50px;
   margin-bottom: 30px;
 }
 
-.section2_left p{
+.section2_left p {
   line-height: 30px;
   margin-bottom: 30px;
   color: rgba(0, 0, 0, 0.527);
-
 }
 
-.section2_left button{
+.section2_left button {
   width: 160px;
   height: 50px;
   border: none;
@@ -179,53 +177,53 @@
 }
 
 /* section 3 */
-.section3{
+.section3 {
   display: flex;
 }
 
-.section3_left{
+.section3_left {
   flex: 1;
 }
 
-.section3_left h2{
+.section3_left h2 {
   font-size: 40px;
 }
 
-.section3_right p{
+.section3_right p {
   color: rgba(0, 0, 0, 0.527);
 }
 
-.section3_right{
+.section3_right {
   flex: 1;
 }
 
 /* section 4 */
 
-.section4{
+.section4 {
   margin: 40px 0px;
 }
 
-.card-container{
+.card-container {
   display: flex;
   gap: 50px;
   align-items: center;
   margin-bottom: 20px;
 }
 
-.card-container .card{
+.card-container .card {
   background: #ffff;
   padding: 10px;
 }
 
-.card img{
+.card img {
   width: 70px;
 }
 
-.card h2{
+.card h2 {
   margin-bottom: 10px;
 }
 
-.card p{
+.card p {
   text-align: justify;
   color: rgba(0, 0, 0, 0.527);
   font-size: 14px;
@@ -233,60 +231,60 @@
 
 /* section 5 */
 
-.section5{
-  background:#079ef3;
+.section5 {
+  background: #079ef3;
   padding: 80px 0px;
 }
 
-.section5_container{
+.section5_container {
   max-width: 90%;
   margin: 0 auto;
 }
 
-.section5_container > h2{
-   text-align: center;
-   text-transform: capitalize;
-   color: #fff;
-   margin-bottom: 30px;
-   font-size: 40px;
-   letter-spacing: 2px;
+.section5_container > h2 {
+  text-align: center;
+  text-transform: capitalize;
+  color: #fff;
+  margin-bottom: 30px;
+  font-size: 40px;
+  letter-spacing: 2px;
 }
 
-.section5_card{
+.section5_card {
   display: flex;
   gap: 20px;
 }
 
- .section5_card .cards{
+.section5_card .cards {
   width: 33.333333%;
   background-color: #fff;
   padding: 20px;
   border-radius: 10px;
 }
 
-.section5_card .cards h2{
-   margin-bottom: 10px;
+.section5_card .cards h2 {
+  margin-bottom: 10px;
 }
 
-.section5_card .cards > span{
-  display:block;
+.section5_card .cards > span {
+  display: block;
   margin-bottom: 50px;
   color: rgba(0, 0, 0, 0.527);
 }
 
-.section5_card .cards .list_Cards{
-   list-style: none;
-   font-weight: 500;
+.section5_card .cards .list_Cards {
+  list-style: none;
+  font-weight: 500;
 }
 
-.section5_card .cards .list_Cards li{
+.section5_card .cards .list_Cards li {
   margin-bottom: 20px;
 }
 
-.section5_card .cards .list_Cards li span{
-    margin-right: 10px;
-    color: rgb(51, 214, 51);
-    font-size: 18px;
+.section5_card .cards .list_Cards li span {
+  margin-right: 10px;
+  color: rgb(51, 214, 51);
+  font-size: 18px;
 }
 
 .section5_card .cards .chooseplan {
@@ -294,22 +292,22 @@
   margin-top: 50px;
 }
 
-.section5_card .cards .chooseplan h2{
-      font-size: 30px;
-      text-align: center;
+.section5_card .cards .chooseplan h2 {
+  font-size: 30px;
+  text-align: center;
 }
 
-.section5_card .cards .chooseplan h2 > span{
+.section5_card .cards .chooseplan h2 > span {
   color: rgba(0, 0, 0, 0.527);
 }
 
-.section5_card .cards .chooseplan p{
+.section5_card .cards .chooseplan p {
   text-align: center;
   color: rgba(0, 0, 0, 0.527);
   margin-bottom: 20px;
 }
 
-.section5_card .cards .chooseplan button{
+.section5_card .cards .chooseplan button {
   padding: 10px 40px;
   background: transparent;
   cursor: pointer;
@@ -318,7 +316,7 @@
   font-size: 16px;
   font-weight: bold;
   text-transform: capitalize;
-  color:#079ef3;
+  color: #079ef3;
   margin-left: 80px;
   letter-spacing: 1px;
 }
@@ -330,27 +328,27 @@
   border-radius: 10px;
 }
 
-.section5_card .cardss{
+.section5_card .cardss {
   padding: 0;
 }
 
-.section5_card .cards .chooseplan .btn_plan{
-  background:#079ef3;
+.section5_card .cards .chooseplan .btn_plan {
+  background: #079ef3;
   color: #fff;
 }
 
 /* section 6 */
-.section6{
+.section6 {
   padding: 100px 100px 50px 100px;
 }
 
-.section6 h2{
+.section6 h2 {
   text-align: center;
   font-size: 40px;
   margin-bottom: 20px;
 }
 
-.section6 p{
+.section6 p {
   width: 800px;
   text-align: center;
   margin-left: 180px;
@@ -358,7 +356,7 @@
 }
 
 /* section 7 */
-.sectio7_card_Wrapper{
+.sectio7_card_Wrapper {
   max-width: 90%;
   margin: 0 auto;
   display: flex;
@@ -366,41 +364,41 @@
   margin-bottom: 20px;
 }
 
-.sectio7_card_Wrapper .section7_card{
+.sectio7_card_Wrapper .section7_card {
   width: 50%;
   border: 1px solid rgba(0, 0, 0, 0.527);
   padding: 20px;
   border-radius: 10px;
 }
 
-.sectio7_card_Wrapper .section7_card > p{
+.sectio7_card_Wrapper .section7_card > p {
   margin-bottom: 30px;
 }
 
-.sectio7_card_Wrapper .section7_card .section7_bottom{
-   display: flex;
-   align-items: center;
-   gap: 10px;
+.sectio7_card_Wrapper .section7_card .section7_bottom {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
-.sectio7_card_Wrapper .section7_card .section7_bottom p{
+.sectio7_card_Wrapper .section7_card .section7_bottom p {
   font-weight: bold;
 }
 
-.sectio7_card_Wrapper .section7_card .div_circle{
+.sectio7_card_Wrapper .section7_card .div_circle {
   border: none;
-    width: 80px;
-    height: 80px;
-    border-radius: 70px;
-    background-color: #D9D9D9;
+  width: 80px;
+  height: 80px;
+  border-radius: 70px;
+  background-color: #d9d9d9;
 }
 
 /* section 8 */
 
-.section8{
+.section8 {
   width: 100%;
   height: 20em;
-  background: url('../images/footer-bg.svg');
+  background: url("../images/footer-bg.svg");
   background-size: cover;
   background-position: center;
   margin: 6em 0;
@@ -409,21 +407,21 @@
   justify-content: space-around;
 }
 
-.section8 .section8_left{
+.section8 .section8_left {
   width: 30%;
   color: #fff;
 }
 
-.section8 .section8_left h2{
+.section8 .section8_left h2 {
   margin-bottom: 10px;
   font-size: 35px;
 }
 
-.section8 .section8_left p{
+.section8 .section8_left p {
   font-size: 14px;
 }
 
-.section8 .section8_right button{
+.section8 .section8_right button {
   padding: 15px 30px;
   background: transparent;
   border: 1px solid #fff;
@@ -434,7 +432,7 @@
 }
 
 /* section 9-> footer */
-.footer{
+.footer {
   width: 90%;
   margin: 10px auto;
   display: flex;
@@ -442,55 +440,54 @@
   gap: 50px;
 }
 
-.footer_logo, .social{
+.footer_logo,
+.social {
   width: 25%;
 }
 
-.footer_logo img{
+.footer_logo img {
   width: 100px;
   margin-bottom: 10px;
 }
 
-.footer_logo p{
+.footer_logo p {
   color: rgba(0, 0, 0, 0.527);
-
 }
 
-.footer ul{
+.footer ul {
   list-style-type: none;
 }
 
-.footer ul h2{
+.footer ul h2 {
   margin-bottom: 10px;
 }
 
-.footer ul li{
+.footer ul li {
   margin-bottom: 10px;
   cursor: pointer;
   color: rgba(0, 0, 0, 0.527);
 }
 
-.footer .social h2{
+.footer .social h2 {
   margin-bottom: 10px;
 }
 
-.footer .social img{
+.footer .social img {
   width: 30px;
   margin-right: 10px;
 }
 
 /* mobile responsive */
 @media only screen and (max-width: 1200px) {
+}
 
-  .container {
-    width: 100%;
-    max-width: 90%;
-    margin: 0 auto;
+@media only screen and (max-width: 992px) {
+  .navbar .nav-right .list .list-item {
+    display: none;
   }
-
-  .navbar{
-    width: 100%;
-    background: #079ef3;
+  .hero-section {
+    grid-template-columns: 1fr;
+    place-items: center;
+    gap: 20px;
   }
-
 }
