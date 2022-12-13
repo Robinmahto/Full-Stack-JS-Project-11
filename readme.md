@@ -9,7 +9,7 @@
 ## Screenshot
 ### Desktop
 ![assignment 11](Hosting-Landing-Page.png)
-![assignment 11](Hosting-Landing-Page-section-3.png)
+![assignment 11](Hosting-Landing-Page-section3.png)
 ![assignment 11](Hosting-Landing-Page-footer.png)
 
 
