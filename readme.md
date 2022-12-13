@@ -1,26 +1,15 @@
-# this is live project
+# Assignment - 11
 
-## css grid
+## Project 10 [Live Link](https://full-stack-js-projects-11.netlify.app/)
 
-### html tutorial
+- ### skills used in project
+  - Learn css position, media query, flexbox, grid etc.
+  - Learn to making background images responsive.
+  - Total time taken 10hr to complete.
+## Screenshot
+### Desktop
+![assignment 11](Hosting-Landing-Page.png)
+![assignment 11](Hosting-Landing-Page-section-3.png)
+![assignment 11](Hosting-Landing-Page-footer.png)
 
-**bold text**
-_italic text_
 
-> blockquote text
-
-1. list1
-2. list2
-3. list3
-
-- first item
-- second item
-- third item
-
-`var a = 20; console.log("print a : ", a)`
-
----
-
-[google](https://www.google.com)
-
-![hosting landing page](./images/Logo.png)
