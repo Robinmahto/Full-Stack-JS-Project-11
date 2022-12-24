@@ -1,6 +1,6 @@
-# Assignment - 11
+# Hosting-Landing-Page
 
-## Project 11 [Live Link](https://full-stack-js-projects-11.netlify.app/)
+## Project 11 [Live Link](https://hosting-landing-pages-11.netlify.app/)
 
 - ### skills used in project
   - Learn css position, media query, flexbox, grid etc.
